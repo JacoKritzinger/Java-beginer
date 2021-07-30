@@ -9,7 +9,7 @@ package chapter1;
  *
  * @author Jaco
  */
-public class chapter1_B {
+public class chapter2_B {
     public static void main(String [] args) {
         int x = 5;
         while ( x > 1 ) {
